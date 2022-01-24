@@ -1,0 +1,2 @@
+# Image Classifier Model
+In this project I have demonstrated the use of machine learning to help correctly label images which can be used for classifying different unlabelled scenic images. The scope of this project extends beyond the displayed usecase. We can use different datasets of images and tweak the model according to our needs which can easily be used to label previously unalabelled images. 
